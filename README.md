@@ -1,2 +1,1 @@
-# ReactJS_Basic
- 
+https://github.com/orgname/reponame.git
